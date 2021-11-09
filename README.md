@@ -4,7 +4,7 @@
 
 Author: **Ahmad Hossain**
 
-Time spent: **~2.3** hours spent in total
+Time spent: **~2.6** hours spent in total
 
 ## Features
 
